@@ -1,0 +1,13 @@
+C:\xampp\htdocs\eventos\bin\Debug\netcoreapp3.1\eventos.exe
+C:\xampp\htdocs\eventos\bin\Debug\netcoreapp3.1\eventos.deps.json
+C:\xampp\htdocs\eventos\bin\Debug\netcoreapp3.1\eventos.runtimeconfig.json
+C:\xampp\htdocs\eventos\bin\Debug\netcoreapp3.1\eventos.runtimeconfig.dev.json
+C:\xampp\htdocs\eventos\bin\Debug\netcoreapp3.1\eventos.dll
+C:\xampp\htdocs\eventos\bin\Debug\netcoreapp3.1\eventos.pdb
+C:\xampp\htdocs\eventos\obj\Debug\netcoreapp3.1\eventos.csprojAssemblyReference.cache
+C:\xampp\htdocs\eventos\obj\Debug\netcoreapp3.1\eventos.AssemblyInfoInputs.cache
+C:\xampp\htdocs\eventos\obj\Debug\netcoreapp3.1\eventos.AssemblyInfo.cs
+C:\xampp\htdocs\eventos\obj\Debug\netcoreapp3.1\eventos.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\eventos\obj\Debug\netcoreapp3.1\eventos.dll
+C:\xampp\htdocs\eventos\obj\Debug\netcoreapp3.1\eventos.pdb
+C:\xampp\htdocs\eventos\obj\Debug\netcoreapp3.1\eventos.genruntimeconfig.cache
